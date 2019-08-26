@@ -1,0 +1,90 @@
+/* ミリオンライブ！の色を元に作成しています */
+$million-colors: (
+	haruka: #e22b30, 	//天海春香
+	chihaya: #2743d2, //如月千早
+	yukiho: #d3dde9, 	//萩原雪歩
+	yayoi: #f39939, 	//高槻やよい
+	ritsuko: #01a860, //秋月律子
+	azusa: #9238be, 	//三浦あずさ
+	iori: #fd99e1, 		//水瀬伊織
+	makoto: #515558,	//菊地真
+	ami: #ffe43f,			//双海亜美
+	mami: #ffe43f, 		//双海真美
+	miki: #b4e04b, 		//星井美希
+	hibiki: #01adb9, 	//我那覇響
+	takane: #a6126a, 	//四条貴音
+	tsubasa: #fed552,	//伊吹翼
+	emily: #554171,		//エミリー
+	tamaki: #ee762e,	//大神環
+	mirai: #ea5b76,		//春日未来
+	reika: #6bb6b0,		//北上麗花
+	shiho: #afa690,		//北沢志保
+	hinata: #d1342c,	//木下ひなた
+	umi: #e9739b,			//高坂海美
+	minako: #58a6dc,	//佐竹美奈子
+	karen: #b63b40,		//篠宮可憐
+	elena: #9bce92,		//島原エレナ
+	julia: #d7385f,		//ジュリア
+	momoko: #efb864,	//周防桃子
+	sayoko: #7f6575,	//高山紗代子
+	kotoha: #92cfbb,	//田中琴葉
+	tomoka: #bee3e3,	//天空橋朋花
+	matsuri: #5abfb7,	//徳川まつり
+	emi: #454341,			//所恵美
+	fuka: #7278a8,		//豊川風花
+	iku: #f7e78e,			//中谷育
+	subaru: #aeb49c,	//永吉昴
+	yuriko: #c7b83c,	//七尾百合子
+	chizuru: #f19557,	//二階堂千鶴
+	akane: #eb613f,		//野々原茜
+	serika: #ed90ba,	//箱崎星梨花
+	konomi: #f1becb,	//馬場このみ
+	noriko: #eceb70, 	//福田のり子
+	ayumu: #e25a9b,		//舞浜歩
+	mizuki: #99b7dc,	//真壁瑞希
+	arisa: #b54461,		//松田亜利沙
+	miya: #d7a96b,		//宮尾美也
+	shizuka: #6495cf,	//最上静香
+	anna: #7e6ca8,		//望月杏奈
+	rio: #f19591,			//百瀬莉緒
+	kana: #f5ad3b,		//矢吹可奈
+	nao: #788bc5,			//横山奈緒
+	roco: #fff03c,		//ロコ
+	kaori: #274079,		//桜守歌織
+	tsumugi: #ebe1ff	//白石紬
+);
+
+@each $name, $color in $million-colors {
+  .text-#{$name} {
+   	color: $color;
+  }
+  .bg-#{$name} {
+		background-color: $color;
+  }
+  .alert-#{$name} {
+		background-color: lighten($color,10%);
+    border-color: $color;
+  }
+  .badge-#{$name} {
+    background-color: lighten($color,10%);
+  }
+  .table-#{$name}{
+    background-color: $color;
+  }
+  .border-#{$name} {
+		border-color: $color;
+  }
+  .btn-#{$name} {
+    background-color: lighten( $color, 10% );
+    border-color: lighten( $color, 15% );
+  }
+  .btn-#{$name}:hover {
+		background-color: lighten( $color, 5% );
+		border-color: lighten( $color, 10% );
+	}
+	.list-group-item-#{$name}{
+		color: $color;
+		background-color: lighten( $color, 5% );
+    border-color: $color;
+	}
+}

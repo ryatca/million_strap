@@ -1,0 +1,2133 @@
+@charset "UTF-8";
+/* ミリオンライブ！の色を元に作成しています */
+.text-haruka {
+  color: #e22b30;
+}
+
+.bg-haruka {
+  background-color: #e22b30;
+}
+
+.alert-haruka {
+  background-color: #e8585c;
+  border-color: #e22b30;
+}
+
+.badge-haruka {
+  background-color: #e8585c;
+}
+
+.table-haruka {
+  background-color: #e22b30;
+}
+
+.border-haruka {
+  border-color: #e22b30;
+}
+
+.btn-haruka {
+  background-color: #e8585c;
+  border-color: #eb6e72;
+}
+
+.btn-haruka:hover {
+  background-color: #e54146;
+  border-color: #e8585c;
+}
+
+.list-group-item-haruka {
+  color: #e22b30;
+  background-color: #e54146;
+  border-color: #e22b30;
+}
+
+.text-chihaya {
+  color: #2743d2;
+}
+
+.bg-chihaya {
+  background-color: #2743d2;
+}
+
+.alert-chihaya {
+  background-color: #4e66de;
+  border-color: #2743d2;
+}
+
+.badge-chihaya {
+  background-color: #4e66de;
+}
+
+.table-chihaya {
+  background-color: #2743d2;
+}
+
+.border-chihaya {
+  border-color: #2743d2;
+}
+
+.btn-chihaya {
+  background-color: #4e66de;
+  border-color: #6378e2;
+}
+
+.btn-chihaya:hover {
+  background-color: #3853da;
+  border-color: #4e66de;
+}
+
+.list-group-item-chihaya {
+  color: #2743d2;
+  background-color: #3853da;
+  border-color: #2743d2;
+}
+
+.text-yukiho {
+  color: #d3dde9;
+}
+
+.bg-yukiho {
+  background-color: #d3dde9;
+}
+
+.alert-yukiho {
+  background-color: #f5f7fa;
+  border-color: #d3dde9;
+}
+
+.badge-yukiho {
+  background-color: #f5f7fa;
+}
+
+.table-yukiho {
+  background-color: #d3dde9;
+}
+
+.border-yukiho {
+  border-color: #d3dde9;
+}
+
+.btn-yukiho {
+  background-color: #f5f7fa;
+  border-color: white;
+}
+
+.btn-yukiho:hover {
+  background-color: #e4eaf2;
+  border-color: #f5f7fa;
+}
+
+.list-group-item-yukiho {
+  color: #d3dde9;
+  background-color: #e4eaf2;
+  border-color: #d3dde9;
+}
+
+.text-yayoi {
+  color: #f39939;
+}
+
+.bg-yayoi {
+  background-color: #f39939;
+}
+
+.alert-yayoi {
+  background-color: #f6b269;
+  border-color: #f39939;
+}
+
+.badge-yayoi {
+  background-color: #f6b269;
+}
+
+.table-yayoi {
+  background-color: #f39939;
+}
+
+.border-yayoi {
+  border-color: #f39939;
+}
+
+.btn-yayoi {
+  background-color: #f6b269;
+  border-color: #f7be81;
+}
+
+.btn-yayoi:hover {
+  background-color: #f4a551;
+  border-color: #f6b269;
+}
+
+.list-group-item-yayoi {
+  color: #f39939;
+  background-color: #f4a551;
+  border-color: #f39939;
+}
+
+.text-ritsuko {
+  color: #01a860;
+}
+
+.bg-ritsuko {
+  background-color: #01a860;
+}
+
+.alert-ritsuko {
+  background-color: #01db7d;
+  border-color: #01a860;
+}
+
+.badge-ritsuko {
+  background-color: #01db7d;
+}
+
+.table-ritsuko {
+  background-color: #01a860;
+}
+
+.border-ritsuko {
+  border-color: #01a860;
+}
+
+.btn-ritsuko {
+  background-color: #01db7d;
+  border-color: #01f48b;
+}
+
+.btn-ritsuko:hover {
+  background-color: #01c16e;
+  border-color: #01db7d;
+}
+
+.list-group-item-ritsuko {
+  color: #01a860;
+  background-color: #01c16e;
+  border-color: #01a860;
+}
+
+.text-azusa {
+  color: #9238be;
+}
+
+.bg-azusa {
+  background-color: #9238be;
+}
+
+.alert-azusa {
+  background-color: #a85acf;
+  border-color: #9238be;
+}
+
+.badge-azusa {
+  background-color: #a85acf;
+}
+
+.table-azusa {
+  background-color: #9238be;
+}
+
+.border-azusa {
+  border-color: #9238be;
+}
+
+.btn-azusa {
+  background-color: #a85acf;
+  border-color: #b36ed4;
+}
+
+.btn-azusa:hover {
+  background-color: #9e47c9;
+  border-color: #a85acf;
+}
+
+.list-group-item-azusa {
+  color: #9238be;
+  background-color: #9e47c9;
+  border-color: #9238be;
+}
+
+.text-iori {
+  color: #fd99e1;
+}
+
+.bg-iori {
+  background-color: #fd99e1;
+}
+
+.alert-iori {
+  background-color: #fecbf0;
+  border-color: #fd99e1;
+}
+
+.badge-iori {
+  background-color: #fecbf0;
+}
+
+.table-iori {
+  background-color: #fd99e1;
+}
+
+.border-iori {
+  border-color: #fd99e1;
+}
+
+.btn-iori {
+  background-color: #fecbf0;
+  border-color: #fee4f7;
+}
+
+.btn-iori:hover {
+  background-color: #fdb2e8;
+  border-color: #fecbf0;
+}
+
+.list-group-item-iori {
+  color: #fd99e1;
+  background-color: #fdb2e8;
+  border-color: #fd99e1;
+}
+
+.text-makoto {
+  color: #515558;
+}
+
+.bg-makoto {
+  background-color: #515558;
+}
+
+.alert-makoto {
+  background-color: #696f73;
+  border-color: #515558;
+}
+
+.badge-makoto {
+  background-color: #696f73;
+}
+
+.table-makoto {
+  background-color: #515558;
+}
+
+.border-makoto {
+  border-color: #515558;
+}
+
+.btn-makoto {
+  background-color: #696f73;
+  border-color: #767b80;
+}
+
+.btn-makoto:hover {
+  background-color: #5d6265;
+  border-color: #696f73;
+}
+
+.list-group-item-makoto {
+  color: #515558;
+  background-color: #5d6265;
+  border-color: #515558;
+}
+
+.text-ami {
+  color: #ffe43f;
+}
+
+.bg-ami {
+  background-color: #ffe43f;
+}
+
+.alert-ami {
+  background-color: #ffeb72;
+  border-color: #ffe43f;
+}
+
+.badge-ami {
+  background-color: #ffeb72;
+}
+
+.table-ami {
+  background-color: #ffe43f;
+}
+
+.border-ami {
+  border-color: #ffe43f;
+}
+
+.btn-ami {
+  background-color: #ffeb72;
+  border-color: #ffef8c;
+}
+
+.btn-ami:hover {
+  background-color: #ffe859;
+  border-color: #ffeb72;
+}
+
+.list-group-item-ami {
+  color: #ffe43f;
+  background-color: #ffe859;
+  border-color: #ffe43f;
+}
+
+.text-mami {
+  color: #ffe43f;
+}
+
+.bg-mami {
+  background-color: #ffe43f;
+}
+
+.alert-mami {
+  background-color: #ffeb72;
+  border-color: #ffe43f;
+}
+
+.badge-mami {
+  background-color: #ffeb72;
+}
+
+.table-mami {
+  background-color: #ffe43f;
+}
+
+.border-mami {
+  border-color: #ffe43f;
+}
+
+.btn-mami {
+  background-color: #ffeb72;
+  border-color: #ffef8c;
+}
+
+.btn-mami:hover {
+  background-color: #ffe859;
+  border-color: #ffeb72;
+}
+
+.list-group-item-mami {
+  color: #ffe43f;
+  background-color: #ffe859;
+  border-color: #ffe43f;
+}
+
+.text-miki {
+  color: #b4e04b;
+}
+
+.bg-miki {
+  background-color: #b4e04b;
+}
+
+.alert-miki {
+  background-color: #c6e777;
+  border-color: #b4e04b;
+}
+
+.badge-miki {
+  background-color: #c6e777;
+}
+
+.table-miki {
+  background-color: #b4e04b;
+}
+
+.border-miki {
+  border-color: #b4e04b;
+}
+
+.btn-miki {
+  background-color: #c6e777;
+  border-color: #cfeb8c;
+}
+
+.btn-miki:hover {
+  background-color: #bde461;
+  border-color: #c6e777;
+}
+
+.list-group-item-miki {
+  color: #b4e04b;
+  background-color: #bde461;
+  border-color: #b4e04b;
+}
+
+.text-hibiki {
+  color: #01adb9;
+}
+
+.bg-hibiki {
+  background-color: #01adb9;
+}
+
+.alert-hibiki {
+  background-color: #01dcec;
+  border-color: #01adb9;
+}
+
+.badge-hibiki {
+  background-color: #01dcec;
+}
+
+.table-hibiki {
+  background-color: #01adb9;
+}
+
+.border-hibiki {
+  border-color: #01adb9;
+}
+
+.btn-hibiki {
+  background-color: #01dcec;
+  border-color: #09eefe;
+}
+
+.btn-hibiki:hover {
+  background-color: #01c5d2;
+  border-color: #01dcec;
+}
+
+.list-group-item-hibiki {
+  color: #01adb9;
+  background-color: #01c5d2;
+  border-color: #01adb9;
+}
+
+.text-takane {
+  color: #a6126a;
+}
+
+.bg-takane {
+  background-color: #a6126a;
+}
+
+.alert-takane {
+  background-color: #d41787;
+  border-color: #a6126a;
+}
+
+.badge-takane {
+  background-color: #d41787;
+}
+
+.table-takane {
+  background-color: #a6126a;
+}
+
+.border-takane {
+  border-color: #a6126a;
+}
+
+.btn-takane {
+  background-color: #d41787;
+  border-color: #e71e95;
+}
+
+.btn-takane:hover {
+  background-color: #bd1479;
+  border-color: #d41787;
+}
+
+.list-group-item-takane {
+  color: #a6126a;
+  background-color: #bd1479;
+  border-color: #a6126a;
+}
+
+.text-tsubasa {
+  color: #fed552;
+}
+
+.bg-tsubasa {
+  background-color: #fed552;
+}
+
+.alert-tsubasa {
+  background-color: #fee185;
+  border-color: #fed552;
+}
+
+.badge-tsubasa {
+  background-color: #fee185;
+}
+
+.table-tsubasa {
+  background-color: #fed552;
+}
+
+.border-tsubasa {
+  border-color: #fed552;
+}
+
+.btn-tsubasa {
+  background-color: #fee185;
+  border-color: #fee79e;
+}
+
+.btn-tsubasa:hover {
+  background-color: #fedb6b;
+  border-color: #fee185;
+}
+
+.list-group-item-tsubasa {
+  color: #fed552;
+  background-color: #fedb6b;
+  border-color: #fed552;
+}
+
+.text-emily {
+  color: #554171;
+}
+
+.bg-emily {
+  background-color: #554171;
+}
+
+.alert-emily {
+  background-color: #6d5491;
+  border-color: #554171;
+}
+
+.badge-emily {
+  background-color: #6d5491;
+}
+
+.table-emily {
+  background-color: #554171;
+}
+
+.border-emily {
+  border-color: #554171;
+}
+
+.btn-emily {
+  background-color: #6d5491;
+  border-color: #7a5da2;
+}
+
+.btn-emily:hover {
+  background-color: #614a81;
+  border-color: #6d5491;
+}
+
+.list-group-item-emily {
+  color: #554171;
+  background-color: #614a81;
+  border-color: #554171;
+}
+
+.text-tamaki {
+  color: #ee762e;
+}
+
+.bg-tamaki {
+  background-color: #ee762e;
+}
+
+.alert-tamaki {
+  background-color: #f2955d;
+  border-color: #ee762e;
+}
+
+.badge-tamaki {
+  background-color: #f2955d;
+}
+
+.table-tamaki {
+  background-color: #ee762e;
+}
+
+.border-tamaki {
+  border-color: #ee762e;
+}
+
+.btn-tamaki {
+  background-color: #f2955d;
+  border-color: #f4a475;
+}
+
+.btn-tamaki:hover {
+  background-color: #f08546;
+  border-color: #f2955d;
+}
+
+.list-group-item-tamaki {
+  color: #ee762e;
+  background-color: #f08546;
+  border-color: #ee762e;
+}
+
+.text-mirai {
+  color: #ea5b76;
+}
+
+.bg-mirai {
+  background-color: #ea5b76;
+}
+
+.alert-mirai {
+  background-color: #f0889c;
+  border-color: #ea5b76;
+}
+
+.badge-mirai {
+  background-color: #f0889c;
+}
+
+.table-mirai {
+  background-color: #ea5b76;
+}
+
+.border-mirai {
+  border-color: #ea5b76;
+}
+
+.btn-mirai {
+  background-color: #f0889c;
+  border-color: #f39faf;
+}
+
+.btn-mirai:hover {
+  background-color: #ed7289;
+  border-color: #f0889c;
+}
+
+.list-group-item-mirai {
+  color: #ea5b76;
+  background-color: #ed7289;
+  border-color: #ea5b76;
+}
+
+.text-reika {
+  color: #6bb6b0;
+}
+
+.bg-reika {
+  background-color: #6bb6b0;
+}
+
+.alert-reika {
+  background-color: #8dc7c2;
+  border-color: #6bb6b0;
+}
+
+.badge-reika {
+  background-color: #8dc7c2;
+}
+
+.table-reika {
+  background-color: #6bb6b0;
+}
+
+.border-reika {
+  border-color: #6bb6b0;
+}
+
+.btn-reika {
+  background-color: #8dc7c2;
+  border-color: #9ecfcb;
+}
+
+.btn-reika:hover {
+  background-color: #7cbeb9;
+  border-color: #8dc7c2;
+}
+
+.list-group-item-reika {
+  color: #6bb6b0;
+  background-color: #7cbeb9;
+  border-color: #6bb6b0;
+}
+
+.text-shiho {
+  color: #afa690;
+}
+
+.bg-shiho {
+  background-color: #afa690;
+}
+
+.alert-shiho {
+  background-color: #c4beae;
+  border-color: #afa690;
+}
+
+.badge-shiho {
+  background-color: #c4beae;
+}
+
+.table-shiho {
+  background-color: #afa690;
+}
+
+.border-shiho {
+  border-color: #afa690;
+}
+
+.btn-shiho {
+  background-color: #c4beae;
+  border-color: #cfcabc;
+}
+
+.btn-shiho:hover {
+  background-color: #bab29f;
+  border-color: #c4beae;
+}
+
+.list-group-item-shiho {
+  color: #afa690;
+  background-color: #bab29f;
+  border-color: #afa690;
+}
+
+.text-hinata {
+  color: #d1342c;
+}
+
+.bg-hinata {
+  background-color: #d1342c;
+}
+
+.alert-hinata {
+  background-color: #db5b55;
+  border-color: #d1342c;
+}
+
+.badge-hinata {
+  background-color: #db5b55;
+}
+
+.table-hinata {
+  background-color: #d1342c;
+}
+
+.border-hinata {
+  border-color: #d1342c;
+}
+
+.btn-hinata {
+  background-color: #db5b55;
+  border-color: #e0706a;
+}
+
+.btn-hinata:hover {
+  background-color: #d74740;
+  border-color: #db5b55;
+}
+
+.list-group-item-hinata {
+  color: #d1342c;
+  background-color: #d74740;
+  border-color: #d1342c;
+}
+
+.text-umi {
+  color: #e9739b;
+}
+
+.bg-umi {
+  background-color: #e9739b;
+}
+
+.alert-umi {
+  background-color: #f09fba;
+  border-color: #e9739b;
+}
+
+.badge-umi {
+  background-color: #f09fba;
+}
+
+.table-umi {
+  background-color: #e9739b;
+}
+
+.border-umi {
+  border-color: #e9739b;
+}
+
+.btn-umi {
+  background-color: #f09fba;
+  border-color: #f3b5ca;
+}
+
+.btn-umi:hover {
+  background-color: #ec89ab;
+  border-color: #f09fba;
+}
+
+.list-group-item-umi {
+  color: #e9739b;
+  background-color: #ec89ab;
+  border-color: #e9739b;
+}
+
+.text-minako {
+  color: #58a6dc;
+}
+
+.bg-minako {
+  background-color: #58a6dc;
+}
+
+.alert-minako {
+  background-color: #82bce5;
+  border-color: #58a6dc;
+}
+
+.badge-minako {
+  background-color: #82bce5;
+}
+
+.table-minako {
+  background-color: #58a6dc;
+}
+
+.border-minako {
+  border-color: #58a6dc;
+}
+
+.btn-minako {
+  background-color: #82bce5;
+  border-color: #97c8e9;
+}
+
+.btn-minako:hover {
+  background-color: #6db1e0;
+  border-color: #82bce5;
+}
+
+.list-group-item-minako {
+  color: #58a6dc;
+  background-color: #6db1e0;
+  border-color: #58a6dc;
+}
+
+.text-karen {
+  color: #b63b40;
+}
+
+.bg-karen {
+  background-color: #b63b40;
+}
+
+.alert-karen {
+  background-color: #ca5a5f;
+  border-color: #b63b40;
+}
+
+.badge-karen {
+  background-color: #ca5a5f;
+}
+
+.table-karen {
+  background-color: #b63b40;
+}
+
+.border-karen {
+  border-color: #b63b40;
+}
+
+.btn-karen {
+  background-color: #ca5a5f;
+  border-color: #d06e72;
+}
+
+.btn-karen:hover {
+  background-color: #c3474c;
+  border-color: #ca5a5f;
+}
+
+.list-group-item-karen {
+  color: #b63b40;
+  background-color: #c3474c;
+  border-color: #b63b40;
+}
+
+.text-elena {
+  color: #9bce92;
+}
+
+.bg-elena {
+  background-color: #9bce92;
+}
+
+.alert-elena {
+  background-color: #bbdeb5;
+  border-color: #9bce92;
+}
+
+.badge-elena {
+  background-color: #bbdeb5;
+}
+
+.table-elena {
+  background-color: #9bce92;
+}
+
+.border-elena {
+  border-color: #9bce92;
+}
+
+.btn-elena {
+  background-color: #bbdeb5;
+  border-color: #cbe6c7;
+}
+
+.btn-elena:hover {
+  background-color: #abd6a4;
+  border-color: #bbdeb5;
+}
+
+.list-group-item-elena {
+  color: #9bce92;
+  background-color: #abd6a4;
+  border-color: #9bce92;
+}
+
+.text-julia {
+  color: #d7385f;
+}
+
+.bg-julia {
+  background-color: #d7385f;
+}
+
+.alert-julia {
+  background-color: #e06281;
+  border-color: #d7385f;
+}
+
+.badge-julia {
+  background-color: #e06281;
+}
+
+.table-julia {
+  background-color: #d7385f;
+}
+
+.border-julia {
+  border-color: #d7385f;
+}
+
+.btn-julia {
+  background-color: #e06281;
+  border-color: #e47892;
+}
+
+.btn-julia:hover {
+  background-color: #db4d70;
+  border-color: #e06281;
+}
+
+.list-group-item-julia {
+  color: #d7385f;
+  background-color: #db4d70;
+  border-color: #d7385f;
+}
+
+.text-momoko {
+  color: #efb864;
+}
+
+.bg-momoko {
+  background-color: #efb864;
+}
+
+.alert-momoko {
+  background-color: #f4cd92;
+  border-color: #efb864;
+}
+
+.badge-momoko {
+  background-color: #f4cd92;
+}
+
+.table-momoko {
+  background-color: #efb864;
+}
+
+.border-momoko {
+  border-color: #efb864;
+}
+
+.btn-momoko {
+  background-color: #f4cd92;
+  border-color: #f6d8a9;
+}
+
+.btn-momoko:hover {
+  background-color: #f1c37b;
+  border-color: #f4cd92;
+}
+
+.list-group-item-momoko {
+  color: #efb864;
+  background-color: #f1c37b;
+  border-color: #efb864;
+}
+
+.text-sayoko {
+  color: #7f6575;
+}
+
+.bg-sayoko {
+  background-color: #7f6575;
+}
+
+.alert-sayoko {
+  background-color: #997e8f;
+  border-color: #7f6575;
+}
+
+.badge-sayoko {
+  background-color: #997e8f;
+}
+
+.table-sayoko {
+  background-color: #7f6575;
+}
+
+.border-sayoko {
+  border-color: #7f6575;
+}
+
+.btn-sayoko {
+  background-color: #997e8f;
+  border-color: #a48d9b;
+}
+
+.btn-sayoko:hover {
+  background-color: #8d7082;
+  border-color: #997e8f;
+}
+
+.list-group-item-sayoko {
+  color: #7f6575;
+  background-color: #8d7082;
+  border-color: #7f6575;
+}
+
+.text-kotoha {
+  color: #92cfbb;
+}
+
+.bg-kotoha {
+  background-color: #92cfbb;
+}
+
+.alert-kotoha {
+  background-color: #b5dfd1;
+  border-color: #92cfbb;
+}
+
+.badge-kotoha {
+  background-color: #b5dfd1;
+}
+
+.table-kotoha {
+  background-color: #92cfbb;
+}
+
+.border-kotoha {
+  border-color: #92cfbb;
+}
+
+.btn-kotoha {
+  background-color: #b5dfd1;
+  border-color: #c7e6dc;
+}
+
+.btn-kotoha:hover {
+  background-color: #a4d7c6;
+  border-color: #b5dfd1;
+}
+
+.list-group-item-kotoha {
+  color: #92cfbb;
+  background-color: #a4d7c6;
+  border-color: #92cfbb;
+}
+
+.text-tomoka {
+  color: #bee3e3;
+}
+
+.bg-tomoka {
+  background-color: #bee3e3;
+}
+
+.alert-tomoka {
+  background-color: #e2f2f2;
+  border-color: #bee3e3;
+}
+
+.badge-tomoka {
+  background-color: #e2f2f2;
+}
+
+.table-tomoka {
+  background-color: #bee3e3;
+}
+
+.border-tomoka {
+  border-color: #bee3e3;
+}
+
+.btn-tomoka {
+  background-color: #e2f2f2;
+  border-color: #f3fafa;
+}
+
+.btn-tomoka:hover {
+  background-color: #d0ebeb;
+  border-color: #e2f2f2;
+}
+
+.list-group-item-tomoka {
+  color: #bee3e3;
+  background-color: #d0ebeb;
+  border-color: #bee3e3;
+}
+
+.text-matsuri {
+  color: #5abfb7;
+}
+
+.bg-matsuri {
+  background-color: #5abfb7;
+}
+
+.alert-matsuri {
+  background-color: #7fcdc7;
+  border-color: #5abfb7;
+}
+
+.badge-matsuri {
+  background-color: #7fcdc7;
+}
+
+.table-matsuri {
+  background-color: #5abfb7;
+}
+
+.border-matsuri {
+  border-color: #5abfb7;
+}
+
+.btn-matsuri {
+  background-color: #7fcdc7;
+  border-color: #91d4cf;
+}
+
+.btn-matsuri:hover {
+  background-color: #6cc6bf;
+  border-color: #7fcdc7;
+}
+
+.list-group-item-matsuri {
+  color: #5abfb7;
+  background-color: #6cc6bf;
+  border-color: #5abfb7;
+}
+
+.text-emi {
+  color: #454341;
+}
+
+.bg-emi {
+  background-color: #454341;
+}
+
+.alert-emi {
+  background-color: #5f5d5a;
+  border-color: #454341;
+}
+
+.badge-emi {
+  background-color: #5f5d5a;
+}
+
+.table-emi {
+  background-color: #454341;
+}
+
+.border-emi {
+  border-color: #454341;
+}
+
+.btn-emi {
+  background-color: #5f5d5a;
+  border-color: #6c6966;
+}
+
+.btn-emi:hover {
+  background-color: #52504d;
+  border-color: #5f5d5a;
+}
+
+.list-group-item-emi {
+  color: #454341;
+  background-color: #52504d;
+  border-color: #454341;
+}
+
+.text-fuka {
+  color: #7278a8;
+}
+
+.bg-fuka {
+  background-color: #7278a8;
+}
+
+.alert-fuka {
+  background-color: #9296bb;
+  border-color: #7278a8;
+}
+
+.badge-fuka {
+  background-color: #9296bb;
+}
+
+.table-fuka {
+  background-color: #7278a8;
+}
+
+.border-fuka {
+  border-color: #7278a8;
+}
+
+.btn-fuka {
+  background-color: #9296bb;
+  border-color: #a1a5c5;
+}
+
+.btn-fuka:hover {
+  background-color: #8287b2;
+  border-color: #9296bb;
+}
+
+.list-group-item-fuka {
+  color: #7278a8;
+  background-color: #8287b2;
+  border-color: #7278a8;
+}
+
+.text-iku {
+  color: #f7e78e;
+}
+
+.bg-iku {
+  background-color: #f7e78e;
+}
+
+.alert-iku {
+  background-color: #faf1be;
+  border-color: #f7e78e;
+}
+
+.badge-iku {
+  background-color: #faf1be;
+}
+
+.table-iku {
+  background-color: #f7e78e;
+}
+
+.border-iku {
+  border-color: #f7e78e;
+}
+
+.btn-iku {
+  background-color: #faf1be;
+  border-color: #fcf6d5;
+}
+
+.btn-iku:hover {
+  background-color: #f9eca6;
+  border-color: #faf1be;
+}
+
+.list-group-item-iku {
+  color: #f7e78e;
+  background-color: #f9eca6;
+  border-color: #f7e78e;
+}
+
+.text-subaru {
+  color: #aeb49c;
+}
+
+.bg-subaru {
+  background-color: #aeb49c;
+}
+
+.alert-subaru {
+  background-color: #c6cab9;
+  border-color: #aeb49c;
+}
+
+.badge-subaru {
+  background-color: #c6cab9;
+}
+
+.table-subaru {
+  background-color: #aeb49c;
+}
+
+.border-subaru {
+  border-color: #aeb49c;
+}
+
+.btn-subaru {
+  background-color: #c6cab9;
+  border-color: #d2d5c8;
+}
+
+.btn-subaru:hover {
+  background-color: #babfab;
+  border-color: #c6cab9;
+}
+
+.list-group-item-subaru {
+  color: #aeb49c;
+  background-color: #babfab;
+  border-color: #aeb49c;
+}
+
+.text-yuriko {
+  color: #c7b83c;
+}
+
+.bg-yuriko {
+  background-color: #c7b83c;
+}
+
+.alert-yuriko {
+  background-color: #d2c664;
+  border-color: #c7b83c;
+}
+
+.badge-yuriko {
+  background-color: #d2c664;
+}
+
+.table-yuriko {
+  background-color: #c7b83c;
+}
+
+.border-yuriko {
+  border-color: #c7b83c;
+}
+
+.btn-yuriko {
+  background-color: #d2c664;
+  border-color: #d8ce77;
+}
+
+.btn-yuriko:hover {
+  background-color: #cdbf50;
+  border-color: #d2c664;
+}
+
+.list-group-item-yuriko {
+  color: #c7b83c;
+  background-color: #cdbf50;
+  border-color: #c7b83c;
+}
+
+.text-chizuru {
+  color: #f19557;
+}
+
+.bg-chizuru {
+  background-color: #f19557;
+}
+
+.alert-chizuru {
+  background-color: #f5b386;
+  border-color: #f19557;
+}
+
+.badge-chizuru {
+  background-color: #f5b386;
+}
+
+.table-chizuru {
+  background-color: #f19557;
+}
+
+.border-chizuru {
+  border-color: #f19557;
+}
+
+.btn-chizuru {
+  background-color: #f5b386;
+  border-color: #f7c29e;
+}
+
+.btn-chizuru:hover {
+  background-color: #f3a46f;
+  border-color: #f5b386;
+}
+
+.list-group-item-chizuru {
+  color: #f19557;
+  background-color: #f3a46f;
+  border-color: #f19557;
+}
+
+.text-akane {
+  color: #eb613f;
+}
+
+.bg-akane {
+  background-color: #eb613f;
+}
+
+.alert-akane {
+  background-color: #f0876d;
+  border-color: #eb613f;
+}
+
+.badge-akane {
+  background-color: #f0876d;
+}
+
+.table-akane {
+  background-color: #eb613f;
+}
+
+.border-akane {
+  border-color: #eb613f;
+}
+
+.btn-akane {
+  background-color: #f0876d;
+  border-color: #f29a84;
+}
+
+.btn-akane:hover {
+  background-color: #ed7456;
+  border-color: #f0876d;
+}
+
+.list-group-item-akane {
+  color: #eb613f;
+  background-color: #ed7456;
+  border-color: #eb613f;
+}
+
+.text-serika {
+  color: #ed90ba;
+}
+
+.bg-serika {
+  background-color: #ed90ba;
+}
+
+.alert-serika {
+  background-color: #f4bcd5;
+  border-color: #ed90ba;
+}
+
+.badge-serika {
+  background-color: #f4bcd5;
+}
+
+.table-serika {
+  background-color: #ed90ba;
+}
+
+.border-serika {
+  border-color: #ed90ba;
+}
+
+.btn-serika {
+  background-color: #f4bcd5;
+  border-color: #f8d2e3;
+}
+
+.btn-serika:hover {
+  background-color: #f1a6c8;
+  border-color: #f4bcd5;
+}
+
+.list-group-item-serika {
+  color: #ed90ba;
+  background-color: #f1a6c8;
+  border-color: #ed90ba;
+}
+
+.text-konomi {
+  color: #f1becb;
+}
+
+.bg-konomi {
+  background-color: #f1becb;
+}
+
+.alert-konomi {
+  background-color: #fae8ed;
+  border-color: #f1becb;
+}
+
+.badge-konomi {
+  background-color: #fae8ed;
+}
+
+.table-konomi {
+  background-color: #f1becb;
+}
+
+.border-konomi {
+  border-color: #f1becb;
+}
+
+.btn-konomi {
+  background-color: #fae8ed;
+  border-color: #fffdfd;
+}
+
+.btn-konomi:hover {
+  background-color: #f6d3dc;
+  border-color: #fae8ed;
+}
+
+.list-group-item-konomi {
+  color: #f1becb;
+  background-color: #f6d3dc;
+  border-color: #f1becb;
+}
+
+.text-noriko {
+  color: #eceb70;
+}
+
+.bg-noriko {
+  background-color: #eceb70;
+}
+
+.alert-noriko {
+  background-color: #f2f19d;
+  border-color: #eceb70;
+}
+
+.badge-noriko {
+  background-color: #f2f19d;
+}
+
+.table-noriko {
+  background-color: #eceb70;
+}
+
+.border-noriko {
+  border-color: #eceb70;
+}
+
+.btn-noriko {
+  background-color: #f2f19d;
+  border-color: #f5f4b4;
+}
+
+.btn-noriko:hover {
+  background-color: #efee87;
+  border-color: #f2f19d;
+}
+
+.list-group-item-noriko {
+  color: #eceb70;
+  background-color: #efee87;
+  border-color: #eceb70;
+}
+
+.text-ayumu {
+  color: #e25a9b;
+}
+
+.bg-ayumu {
+  background-color: #e25a9b;
+}
+
+.alert-ayumu {
+  background-color: #ea85b5;
+  border-color: #e25a9b;
+}
+
+.badge-ayumu {
+  background-color: #ea85b5;
+}
+
+.table-ayumu {
+  background-color: #e25a9b;
+}
+
+.border-ayumu {
+  border-color: #e25a9b;
+}
+
+.btn-ayumu {
+  background-color: #ea85b5;
+  border-color: #ed9bc2;
+}
+
+.btn-ayumu:hover {
+  background-color: #e670a8;
+  border-color: #ea85b5;
+}
+
+.list-group-item-ayumu {
+  color: #e25a9b;
+  background-color: #e670a8;
+  border-color: #e25a9b;
+}
+
+.text-mizuki {
+  color: #99b7dc;
+}
+
+.bg-mizuki {
+  background-color: #99b7dc;
+}
+
+.alert-mizuki {
+  background-color: #bfd2e9;
+  border-color: #99b7dc;
+}
+
+.badge-mizuki {
+  background-color: #bfd2e9;
+}
+
+.table-mizuki {
+  background-color: #99b7dc;
+}
+
+.border-mizuki {
+  border-color: #99b7dc;
+}
+
+.btn-mizuki {
+  background-color: #bfd2e9;
+  border-color: #d2dff0;
+}
+
+.btn-mizuki:hover {
+  background-color: #acc4e3;
+  border-color: #bfd2e9;
+}
+
+.list-group-item-mizuki {
+  color: #99b7dc;
+  background-color: #acc4e3;
+  border-color: #99b7dc;
+}
+
+.text-arisa {
+  color: #b54461;
+}
+
+.bg-arisa {
+  background-color: #b54461;
+}
+
+.alert-arisa {
+  background-color: #c6667f;
+  border-color: #b54461;
+}
+
+.badge-arisa {
+  background-color: #c6667f;
+}
+
+.table-arisa {
+  background-color: #b54461;
+}
+
+.border-arisa {
+  border-color: #b54461;
+}
+
+.btn-arisa {
+  background-color: #c6667f;
+  border-color: #cd798e;
+}
+
+.btn-arisa:hover {
+  background-color: #bf546f;
+  border-color: #c6667f;
+}
+
+.list-group-item-arisa {
+  color: #b54461;
+  background-color: #bf546f;
+  border-color: #b54461;
+}
+
+.text-miya {
+  color: #d7a96b;
+}
+
+.bg-miya {
+  background-color: #d7a96b;
+}
+
+.alert-miya {
+  background-color: #e2c093;
+  border-color: #d7a96b;
+}
+
+.badge-miya {
+  background-color: #e2c093;
+}
+
+.table-miya {
+  background-color: #d7a96b;
+}
+
+.border-miya {
+  border-color: #d7a96b;
+}
+
+.btn-miya {
+  background-color: #e2c093;
+  border-color: #e7cca7;
+}
+
+.btn-miya:hover {
+  background-color: #dcb57f;
+  border-color: #e2c093;
+}
+
+.list-group-item-miya {
+  color: #d7a96b;
+  background-color: #dcb57f;
+  border-color: #d7a96b;
+}
+
+.text-shizuka {
+  color: #6495cf;
+}
+
+.bg-shizuka {
+  background-color: #6495cf;
+}
+
+.alert-shizuka {
+  background-color: #8bb0db;
+  border-color: #6495cf;
+}
+
+.badge-shizuka {
+  background-color: #8bb0db;
+}
+
+.table-shizuka {
+  background-color: #6495cf;
+}
+
+.border-shizuka {
+  border-color: #6495cf;
+}
+
+.btn-shizuka {
+  background-color: #8bb0db;
+  border-color: #9ebde1;
+}
+
+.btn-shizuka:hover {
+  background-color: #77a2d5;
+  border-color: #8bb0db;
+}
+
+.list-group-item-shizuka {
+  color: #6495cf;
+  background-color: #77a2d5;
+  border-color: #6495cf;
+}
+
+.text-anna {
+  color: #7e6ca8;
+}
+
+.bg-anna {
+  background-color: #7e6ca8;
+}
+
+.alert-anna {
+  background-color: #9a8cbb;
+  border-color: #7e6ca8;
+}
+
+.badge-anna {
+  background-color: #9a8cbb;
+}
+
+.table-anna {
+  background-color: #7e6ca8;
+}
+
+.border-anna {
+  border-color: #7e6ca8;
+}
+
+.btn-anna {
+  background-color: #9a8cbb;
+  border-color: #a89cc4;
+}
+
+.btn-anna:hover {
+  background-color: #8c7cb1;
+  border-color: #9a8cbb;
+}
+
+.list-group-item-anna {
+  color: #7e6ca8;
+  background-color: #8c7cb1;
+  border-color: #7e6ca8;
+}
+
+.text-rio {
+  color: #f19591;
+}
+
+.bg-rio {
+  background-color: #f19591;
+}
+
+.alert-rio {
+  background-color: #f7c1be;
+  border-color: #f19591;
+}
+
+.badge-rio {
+  background-color: #f7c1be;
+}
+
+.table-rio {
+  background-color: #f19591;
+}
+
+.border-rio {
+  border-color: #f19591;
+}
+
+.btn-rio {
+  background-color: #f7c1be;
+  border-color: #fad6d5;
+}
+
+.btn-rio:hover {
+  background-color: #f4aba8;
+  border-color: #f7c1be;
+}
+
+.list-group-item-rio {
+  color: #f19591;
+  background-color: #f4aba8;
+  border-color: #f19591;
+}
+
+.text-kana {
+  color: #f5ad3b;
+}
+
+.bg-kana {
+  background-color: #f5ad3b;
+}
+
+.alert-kana {
+  background-color: #f7c16c;
+  border-color: #f5ad3b;
+}
+
+.badge-kana {
+  background-color: #f7c16c;
+}
+
+.table-kana {
+  background-color: #f5ad3b;
+}
+
+.border-kana {
+  border-color: #f5ad3b;
+}
+
+.btn-kana {
+  background-color: #f7c16c;
+  border-color: #f9cb84;
+}
+
+.btn-kana:hover {
+  background-color: #f6b753;
+  border-color: #f7c16c;
+}
+
+.list-group-item-kana {
+  color: #f5ad3b;
+  background-color: #f6b753;
+  border-color: #f5ad3b;
+}
+
+.text-nao {
+  color: #788bc5;
+}
+
+.bg-nao {
+  background-color: #788bc5;
+}
+
+.alert-nao {
+  background-color: #9caad4;
+  border-color: #788bc5;
+}
+
+.badge-nao {
+  background-color: #9caad4;
+}
+
+.table-nao {
+  background-color: #788bc5;
+}
+
+.border-nao {
+  border-color: #788bc5;
+}
+
+.btn-nao {
+  background-color: #9caad4;
+  border-color: #aeb9dc;
+}
+
+.btn-nao:hover {
+  background-color: #8a9acd;
+  border-color: #9caad4;
+}
+
+.list-group-item-nao {
+  color: #788bc5;
+  background-color: #8a9acd;
+  border-color: #788bc5;
+}
+
+.text-roco {
+  color: #fff03c;
+}
+
+.bg-roco {
+  background-color: #fff03c;
+}
+
+.alert-roco {
+  background-color: #fff46f;
+  border-color: #fff03c;
+}
+
+.badge-roco {
+  background-color: #fff46f;
+}
+
+.table-roco {
+  background-color: #fff03c;
+}
+
+.border-roco {
+  border-color: #fff03c;
+}
+
+.btn-roco {
+  background-color: #fff46f;
+  border-color: #fff689;
+}
+
+.btn-roco:hover {
+  background-color: #fff256;
+  border-color: #fff46f;
+}
+
+.list-group-item-roco {
+  color: #fff03c;
+  background-color: #fff256;
+  border-color: #fff03c;
+}
+
+.text-kaori {
+  color: #274079;
+}
+
+.bg-kaori {
+  background-color: #274079;
+}
+
+.alert-kaori {
+  background-color: #3354a0;
+  border-color: #274079;
+}
+
+.badge-kaori {
+  background-color: #3354a0;
+}
+
+.table-kaori {
+  background-color: #274079;
+}
+
+.border-kaori {
+  border-color: #274079;
+}
+
+.btn-kaori {
+  background-color: #3354a0;
+  border-color: #3a5fb3;
+}
+
+.btn-kaori:hover {
+  background-color: #2d4a8c;
+  border-color: #3354a0;
+}
+
+.list-group-item-kaori {
+  color: #274079;
+  background-color: #2d4a8c;
+  border-color: #274079;
+}
+
+.text-tsumugi {
+  color: #ebe1ff;
+}
+
+.bg-tsumugi {
+  background-color: #ebe1ff;
+}
+
+.alert-tsumugi {
+  background-color: white;
+  border-color: #ebe1ff;
+}
+
+.badge-tsumugi {
+  background-color: white;
+}
+
+.table-tsumugi {
+  background-color: #ebe1ff;
+}
+
+.border-tsumugi {
+  border-color: #ebe1ff;
+}
+
+.btn-tsumugi {
+  background-color: white;
+  border-color: white;
+}
+
+.btn-tsumugi:hover {
+  background-color: #fcfbff;
+  border-color: white;
+}
+
+.list-group-item-tsumugi {
+  color: #ebe1ff;
+  background-color: #fcfbff;
+  border-color: #ebe1ff;
+}
