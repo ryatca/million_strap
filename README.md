@@ -1,0 +1,58 @@
+# million_strap
+
+bootstrap4読み込んでから使ってネ  
+微調整はまだ加えます
+  
+- 使える色
+  - haruka
+  - chihaya
+  - yukiho
+  - yayoi
+  - ritsuko
+  - azusa
+  - iori
+  - makoto
+  - ami
+  - mami
+  - miki
+  - hibiki
+  - takane
+  - tsubasa
+  - emily
+  - tamaki
+  - mirai
+  - reika
+  - shiho
+  - hinata
+  - umi
+  - minako
+  - karen
+  - elena
+  - julia
+  - momoko
+  - sayoko
+  - kotoha
+  - tomoka
+  - matsuri
+  - emi
+  - fuka
+  - iku
+  - subaru
+  - yuriko
+  - chizuru
+  - akane
+  - serika
+  - konomi
+  - noriko
+  - ayumu
+  - mizuki
+  - arisa
+  - miya
+  - shizuka
+  - anna
+  - rio
+  - kana
+  - nao
+  - roco
+  - kaori
+  - tsumugi
